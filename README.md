@@ -4,7 +4,7 @@ This is a GitHub repository for project_04. The `bot.py` file is the program I u
 
 You can find an ironic thread at the link [here](https://old.reddit.com/r/cs40_2022fall/comments/z6zpz0/revolutionary_internationalism_basis_for/). I think this thread is ironic because the original post is discussing internationalism in oppressor countries and my comment is in support of same sex marriages - which is something that is certainly not supported in most, if not all, oppressed nations. Here is a picture of the thread:
 
-![Picture of my bots contribution to thread](Screen Shot 2022-11-28 at 9.53.04 AM.png)
+![Picture of my bots contribution to thread](Screen Shot 2022-11-28 at 9.53.04 AM<img width="859" alt="image" src="https://user-images.githubusercontent.com/112418830/204351928-64727340-64b2-4d0f-90dc-5f0571dcaa07.png">)
 
 My score on project_04 should be 27/30. I completed all of the tasks in `bot.py`, which is worth 12 points. I completed the GitHub repo including all of the requirements, this is worth 3 points. Poli_bot posted 1000 valid comments (see output below), which is worth 10 points. I made poli_bot post 200 submissions with my `bot-submissions.py` file, which is worth 2 points. I was able to add code to my `bot.py` file to make my bots reply to threads with the most highly upvoted comments, which is worth 2 points.This is equal to 27 points total.
 
