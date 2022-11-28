@@ -2,7 +2,7 @@
 
 This is a GitHub repository for project_04. The `bot.py` file is the program I used to create a Reddit bot that posts comments generated using the madlib technique. The random comments generated are in support of former U.S president Barack Obama. This bot works for the username poli_bot.
 
-You can find an ironic thread at the link [here]([https://old.reddit.com/r/cs40_2022fall/comments/yz66wg/what_would_the_republicans_done_differently_in/iwy9lqn/](https://old.reddit.com/r/cs40_2022fall/comments/z6zpz0/revolutionary_internationalism_basis_for/)). I think this thread is ironic because the original post is discussing internationalism in oppressor countries and my comment is in support of same sex marriages - which is something that is certainly not supported in most, if not all, oppressed nations. Here is a picture of the thread:
+You can find an ironic thread at the link [here](https://old.reddit.com/r/cs40_2022fall/comments/z6zpz0/revolutionary_internationalism_basis_for/). I think this thread is ironic because the original post is discussing internationalism in oppressor countries and my comment is in support of same sex marriages - which is something that is certainly not supported in most, if not all, oppressed nations. Here is a picture of the thread:
 
 ![Picture of my bots contribution to thread](Screen Shot 2022-11-28 at 9.53.04 AM.png)
 
